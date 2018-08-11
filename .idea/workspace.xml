@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ADumbCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BMICalculator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,11 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ADumbCalculator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ADumbCalculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ADumbCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
+            <state relative-caret-position="187">
               <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BMICalculator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BMICalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -68,6 +76,7 @@
         <option value="$PROJECT_DIR$/src/MoreUserInputOfData.java" />
         <option value="$PROJECT_DIR$/src/AgeInFiveYears.java" />
         <option value="$PROJECT_DIR$/src/ADumbCalculator.java" />
+        <option value="$PROJECT_DIR$/src/BMICalculator.java" />
       </list>
     </option>
   </component>
@@ -121,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ADumbCalculator">
+  <component name="RunManager" selected="Application.BMICalculator">
     <configuration name="ADumbCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ADumbCalculator" />
       <module name="ProgrammingByDoing" />
@@ -132,6 +141,11 @@
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="BMICalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BMICalculator" />
+      <module name="ProgrammingByDoing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="MoreUserInputOfData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MoreUserInputOfData" />
       <module name="ProgrammingByDoing" />
@@ -139,11 +153,6 @@
     </configuration>
     <configuration name="NameAgeAndSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NameAgeAndSalary" />
-      <module name="ProgrammingByDoing" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="TheForgetfulMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TheForgetfulMachine" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -189,19 +198,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.TheForgetfulMachine" />
       <item itemvalue="Application.NameAgeAndSalary" />
       <item itemvalue="Application.MoreUserInputOfData" />
       <item itemvalue="Application.AgeInFiveYears" />
       <item itemvalue="Application.ADumbCalculator" />
+      <item itemvalue="Application.BMICalculator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BMICalculator" />
         <item itemvalue="Application.ADumbCalculator" />
         <item itemvalue="Application.AgeInFiveYears" />
         <item itemvalue="Application.MoreUserInputOfData" />
         <item itemvalue="Application.NameAgeAndSalary" />
-        <item itemvalue="Application.TheForgetfulMachine" />
       </list>
     </recent_temporary>
   </component>
@@ -390,8 +399,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ADumbCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
+        <state relative-caret-position="187">
           <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BMICalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
         </state>
       </provider>
     </entry>
