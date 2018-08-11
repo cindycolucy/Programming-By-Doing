@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TheForgetfulMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NameAgeAndSalary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,11 +33,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TheForgetfulMachine.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TheForgetfulMachine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TheForgetfulMachine.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NameAgeAndSalary.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NameAgeAndSalary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,6 +76,7 @@
         <option value="$PROJECT_DIR$/src/YourSchedule.java" />
         <option value="$PROJECT_DIR$/src/AskingQuestions.java" />
         <option value="$PROJECT_DIR$/src/TheForgetfulMachine.java" />
+        <option value="$PROJECT_DIR$/src/NameAgeAndSalary.java" />
       </list>
     </option>
   </component>
@@ -117,9 +130,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TheForgetfulMachine">
+  <component name="RunManager" selected="Application.NameAgeAndSalary">
     <configuration name="AskingQuestions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AskingQuestions" />
+      <module name="ProgrammingByDoing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="NameAgeAndSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NameAgeAndSalary" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -130,11 +148,6 @@
     </configuration>
     <configuration name="TheForgetfulMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TheForgetfulMachine" />
-      <module name="ProgrammingByDoing" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="UsingVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UsingVariables" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -185,19 +198,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.UsingVariables" />
       <item itemvalue="Application.StillUsingVariables" />
       <item itemvalue="Application.YourSchedule" />
       <item itemvalue="Application.AskingQuestions" />
       <item itemvalue="Application.TheForgetfulMachine" />
+      <item itemvalue="Application.NameAgeAndSalary" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NameAgeAndSalary" />
         <item itemvalue="Application.TheForgetfulMachine" />
         <item itemvalue="Application.AskingQuestions" />
         <item itemvalue="Application.YourSchedule" />
         <item itemvalue="Application.StillUsingVariables" />
-        <item itemvalue="Application.UsingVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -345,6 +358,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/TheForgetfulMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/AskingQuestions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -352,10 +372,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TheForgetfulMachine.java">
+    <entry file="file://$PROJECT_DIR$/src/NameAgeAndSalary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="153">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
