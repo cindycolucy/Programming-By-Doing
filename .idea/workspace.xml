@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NameAgeAndSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoreUserInputOfData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -42,7 +42,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NameAgeAndSalary.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NameAgeAndSalary.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NameAgeAndSalary.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -50,6 +50,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoreUserInputOfData.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MoreUserInputOfData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -77,6 +86,7 @@
         <option value="$PROJECT_DIR$/src/AskingQuestions.java" />
         <option value="$PROJECT_DIR$/src/TheForgetfulMachine.java" />
         <option value="$PROJECT_DIR$/src/NameAgeAndSalary.java" />
+        <option value="$PROJECT_DIR$/src/MoreUserInputOfData.java" />
       </list>
     </option>
   </component>
@@ -130,19 +140,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NameAgeAndSalary">
+  <component name="RunManager" selected="Application.MoreUserInputOfData">
     <configuration name="AskingQuestions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AskingQuestions" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="NameAgeAndSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NameAgeAndSalary" />
+    <configuration name="MoreUserInputOfData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoreUserInputOfData" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="StillUsingVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StillUsingVariables" />
+    <configuration name="NameAgeAndSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NameAgeAndSalary" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -198,19 +208,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StillUsingVariables" />
       <item itemvalue="Application.YourSchedule" />
       <item itemvalue="Application.AskingQuestions" />
       <item itemvalue="Application.TheForgetfulMachine" />
       <item itemvalue="Application.NameAgeAndSalary" />
+      <item itemvalue="Application.MoreUserInputOfData" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoreUserInputOfData" />
         <item itemvalue="Application.NameAgeAndSalary" />
         <item itemvalue="Application.TheForgetfulMachine" />
         <item itemvalue="Application.AskingQuestions" />
         <item itemvalue="Application.YourSchedule" />
-        <item itemvalue="Application.StillUsingVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -237,6 +247,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -247,11 +258,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32786885" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22576448" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22576448" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -379,6 +390,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MoreUserInputOfData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
         </state>
       </provider>
     </entry>
