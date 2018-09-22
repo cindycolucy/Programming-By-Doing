@@ -14,10 +14,11 @@ public class NumberGuessing {
         System.out.println("Guess a number 1-10");
         guess = scanner.nextInt();
 
-        if(i == guess){
-            System.out.println("You're right, the number was " + i + "!");
-            }
-            else System.out.println("Wrong, you lose, it was " + i + "!");
+        while(i != guess) {
+            System.out.println("Wrong, you lose, try again.");
+            guess = scanner.nextInt();
+        }
+        System.out.println("You're right, the number was " + i + "!");
 
 
 
