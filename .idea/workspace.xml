@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingByDoing/BMICalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingByDoing/BMICalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ALittleQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ALittleQuiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddingValuesInALoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddingValuesInALoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Adventure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Adventure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlphabeticalOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlphabeticalOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CompareToChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompareToChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DoWhileSwimming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoWhileSwimming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ElseAndIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElseAndIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EnterYourPIN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EnterYourPIN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlipAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlipAgain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FortuneCookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FortuneCookie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GenderGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenderGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HiLoWithLimitedTries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HiLoWithLimitedTries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HowOldAreYouSpecifically.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HowOldAreYouSpecifically.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Magic8Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Magic8Ball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModulusAnimationSymbols.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModulusAnimationSymbols.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModulusAnimationWorm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModulusAnimationWorm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyModulusAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyModulusAnimation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Randomness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Randomness.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SpaceBoxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpaceBoxing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreeCardMonte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreeCardMonte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoMoreQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoMoreQuestions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoQuestions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeekdayName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WeekdayName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberGuessingAgain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,14 +35,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dice.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dice.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Dice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+            <state relative-caret-position="255">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberGuessingAgain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NumberGuessingAgain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -129,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/DoWhileSwimming.java" />
         <option value="$PROJECT_DIR$/src/FlipAgain.java" />
         <option value="$PROJECT_DIR$/src/Dice.java" />
+        <option value="$PROJECT_DIR$/src/NumberGuessingAgain.java" />
       </list>
     </option>
   </component>
@@ -170,6 +155,11 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -182,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Dice">
+  <component name="RunManager" selected="Application.NumberGuessingAgain">
     <configuration name="AddingValuesInALoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddingValuesInALoop" />
       <module name="ProgrammingByDoing" />
@@ -203,8 +193,8 @@
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="HiLoWithLimitedTries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HiLoWithLimitedTries" />
+    <configuration name="NumberGuessingAgain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberGuessingAgain" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -250,19 +240,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.HiLoWithLimitedTries" />
       <item itemvalue="Application.AddingValuesInALoop" />
       <item itemvalue="Application.DoWhileSwimming" />
       <item itemvalue="Application.FlipAgain" />
       <item itemvalue="Application.Dice" />
+      <item itemvalue="Application.NumberGuessingAgain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberGuessingAgain" />
         <item itemvalue="Application.Dice" />
         <item itemvalue="Application.FlipAgain" />
         <item itemvalue="Application.DoWhileSwimming" />
         <item itemvalue="Application.AddingValuesInALoop" />
-        <item itemvalue="Application.HiLoWithLimitedTries" />
       </list>
     </recent_temporary>
   </component>
@@ -300,11 +290,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32786885" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23162004" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23162004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -373,13 +363,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ADumbCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BMICalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -734,11 +717,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Dice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        <state relative-caret-position="255">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumberGuessingAgain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

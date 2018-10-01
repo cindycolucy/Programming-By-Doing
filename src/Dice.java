@@ -19,7 +19,7 @@ public class Dice {
             System.out.println("First roll: " + roll1);
             System.out.println("Second roll: " + roll2);
             System.out.println("Total: " + (roll1 + roll2));
-            
+
         } while (roll1 != roll2);
 
         // System.out.println("Doubles!");
