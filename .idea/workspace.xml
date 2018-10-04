@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SafeSquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RightTriangleChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -57,11 +57,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SafeSquareRoot.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SafeSquareRoot.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SafeSquareRoot.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RightTriangleChecker.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RightTriangleChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="34" column="51" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -125,6 +134,7 @@
         <option value="$PROJECT_DIR$/src/Dice.java" />
         <option value="$PROJECT_DIR$/src/NumberGuessingAgain.java" />
         <option value="$PROJECT_DIR$/src/SafeSquareRoot.java" />
+        <option value="$PROJECT_DIR$/src/RightTriangleChecker.java" />
       </list>
     </option>
   </component>
@@ -183,14 +193,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SafeSquareRoot">
+  <component name="RunManager" selected="Application.RightTriangleChecker">
     <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dice" />
-      <module name="ProgrammingByDoing" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="DoWhileSwimming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoWhileSwimming" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -201,6 +206,11 @@
     </configuration>
     <configuration name="NumberGuessingAgain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberGuessingAgain" />
+      <module name="ProgrammingByDoing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="RightTriangleChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RightTriangleChecker" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -251,19 +261,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.DoWhileSwimming" />
       <item itemvalue="Application.FlipAgain" />
       <item itemvalue="Application.Dice" />
       <item itemvalue="Application.NumberGuessingAgain" />
       <item itemvalue="Application.SafeSquareRoot" />
+      <item itemvalue="Application.RightTriangleChecker" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RightTriangleChecker" />
         <item itemvalue="Application.SafeSquareRoot" />
         <item itemvalue="Application.NumberGuessingAgain" />
         <item itemvalue="Application.Dice" />
         <item itemvalue="Application.FlipAgain" />
-        <item itemvalue="Application.DoWhileSwimming" />
       </list>
     </recent_temporary>
   </component>
@@ -290,6 +300,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -373,13 +384,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/YourSchedule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UsingVariables.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -739,6 +743,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RightTriangleChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="34" column="51" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
         </state>
       </provider>
     </entry>
