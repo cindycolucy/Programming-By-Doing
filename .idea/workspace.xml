@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="" />
+    <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/XsAndYs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,11 +42,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountingMachine2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CountingMachine2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CountingMachine2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountingByHalves.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CountingByHalves.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="11" selection-start-line="2" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XsAndYs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/XsAndYs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -63,8 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MoreVariablesAndPrinting.java" />
-        <option value="$PROJECT_DIR$/src/UsingVariables.java" />
         <option value="$PROJECT_DIR$/src/StillUsingVariables.java" />
         <option value="$PROJECT_DIR$/src/YourSchedule.java" />
         <option value="$PROJECT_DIR$/src/AskingQuestions.java" />
@@ -114,6 +133,8 @@
         <option value="$PROJECT_DIR$/src/TenTimes.java" />
         <option value="$PROJECT_DIR$/src/CountingMachine.java" />
         <option value="$PROJECT_DIR$/src/CountingMachine2.java" />
+        <option value="$PROJECT_DIR$/src/CountingByHalves.java" />
+        <option value="$PROJECT_DIR$/src/XsAndYs.java" />
       </list>
     </option>
   </component>
@@ -172,14 +193,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountingByHalves">
+  <component name="RunManager" selected="Application.XsAndYs">
     <configuration name="CountingByHalves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountingByHalves" />
-      <module name="ProgrammingByDoing" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="CountingFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountingFor" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -195,6 +211,11 @@
     </configuration>
     <configuration name="TenTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TenTimes" />
+      <module name="ProgrammingByDoing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="XsAndYs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XsAndYs" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -240,19 +261,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.CountingFor" />
       <item itemvalue="Application.TenTimes" />
       <item itemvalue="Application.CountingMachine" />
       <item itemvalue="Application.CountingMachine2" />
       <item itemvalue="Application.CountingByHalves" />
+      <item itemvalue="Application.XsAndYs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.XsAndYs" />
         <item itemvalue="Application.CountingByHalves" />
         <item itemvalue="Application.CountingMachine2" />
         <item itemvalue="Application.CountingMachine" />
         <item itemvalue="Application.TenTimes" />
-        <item itemvalue="Application.CountingFor" />
       </list>
     </recent_temporary>
   </component>
@@ -279,6 +300,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -362,20 +384,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MoreVariablesAndPrinting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StillUsingVariables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UsingVariables.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -731,6 +739,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountingByHalves.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="2" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XsAndYs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
         </state>
       </provider>
     </entry>
