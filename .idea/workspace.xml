@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TenTimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountingMachine.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TenTimes.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TenTimes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TenTimes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            <state relative-caret-position="68">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountingMachine.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CountingMachine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -98,6 +106,7 @@
         <option value="$PROJECT_DIR$/src/Nim.java" />
         <option value="$PROJECT_DIR$/src/CountingFor.java" />
         <option value="$PROJECT_DIR$/src/TenTimes.java" />
+        <option value="$PROJECT_DIR$/src/CountingMachine.java" />
       </list>
     </option>
   </component>
@@ -156,19 +165,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TenTimes">
+  <component name="RunManager" selected="Application.CountingMachine">
     <configuration name="BabyNim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BabyNim" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="CollatzSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollatzSequence" />
+    <configuration name="CountingFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountingFor" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="CountingFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountingFor" />
+    <configuration name="CountingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountingMachine" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -224,19 +233,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.CollatzSequence" />
       <item itemvalue="Application.BabyNim" />
       <item itemvalue="Application.Nim" />
       <item itemvalue="Application.CountingFor" />
       <item itemvalue="Application.TenTimes" />
+      <item itemvalue="Application.CountingMachine" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountingMachine" />
         <item itemvalue="Application.TenTimes" />
         <item itemvalue="Application.CountingFor" />
         <item itemvalue="Application.Nim" />
         <item itemvalue="Application.BabyNim" />
-        <item itemvalue="Application.CollatzSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +272,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -347,13 +355,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MoreVariablesAndPrinting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/VariablesAndNames.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -714,8 +715,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TenTimes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        <state relative-caret-position="68">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
