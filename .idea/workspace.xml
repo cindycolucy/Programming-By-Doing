@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Nim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountingFor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,23 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BabyNim.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BabyNim.java">
+      <file leaf-file-name="CountingFor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CountingFor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="26" column="40" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Nim.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Nim.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
-              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="203">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -99,6 +87,7 @@
         <option value="$PROJECT_DIR$/src/CollatzSequence.java" />
         <option value="$PROJECT_DIR$/src/BabyNim.java" />
         <option value="$PROJECT_DIR$/src/Nim.java" />
+        <option value="$PROJECT_DIR$/src/CountingFor.java" />
       </list>
     </option>
   </component>
@@ -157,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Nim">
+  <component name="RunManager" selected="Application.CountingFor">
     <configuration name="BabyNim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BabyNim" />
       <module name="ProgrammingByDoing" />
@@ -168,6 +157,11 @@
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="CountingFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountingFor" />
+      <module name="ProgrammingByDoing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="Nim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Nim" />
       <module name="ProgrammingByDoing" />
@@ -175,11 +169,6 @@
     </configuration>
     <configuration name="RightTriangleChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RightTriangleChecker" />
-      <module name="ProgrammingByDoing" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="SafeSquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SafeSquareRoot" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -225,19 +214,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SafeSquareRoot" />
       <item itemvalue="Application.RightTriangleChecker" />
       <item itemvalue="Application.CollatzSequence" />
       <item itemvalue="Application.BabyNim" />
       <item itemvalue="Application.Nim" />
+      <item itemvalue="Application.CountingFor" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountingFor" />
         <item itemvalue="Application.Nim" />
         <item itemvalue="Application.BabyNim" />
         <item itemvalue="Application.CollatzSequence" />
         <item itemvalue="Application.RightTriangleChecker" />
-        <item itemvalue="Application.SafeSquareRoot" />
       </list>
     </recent_temporary>
   </component>
@@ -348,13 +337,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MoreVariablesAndPrinting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/VariablesAndNames.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -703,6 +685,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Nim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="46" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BabyNim.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
@@ -710,13 +702,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Nim.java">
+    <entry file="file://$PROJECT_DIR$/src/CountingFor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="203">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
