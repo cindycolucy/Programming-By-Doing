@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/XsAndYs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoticingEvenNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,33 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CountingFor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CountingFor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TenTimes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TenTimes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CountingMachine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CountingMachine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CountingMachine2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CountingMachine2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,11 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="XsAndYs.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="XsAndYs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/XsAndYs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoticingEvenNumbers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NoticingEvenNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -84,7 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/StillUsingVariables.java" />
         <option value="$PROJECT_DIR$/src/YourSchedule.java" />
         <option value="$PROJECT_DIR$/src/AskingQuestions.java" />
         <option value="$PROJECT_DIR$/src/TheForgetfulMachine.java" />
@@ -135,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/CountingMachine2.java" />
         <option value="$PROJECT_DIR$/src/CountingByHalves.java" />
         <option value="$PROJECT_DIR$/src/XsAndYs.java" />
+        <option value="$PROJECT_DIR$/src/NoticingEvenNumbers.java" />
       </list>
     </option>
   </component>
@@ -193,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.XsAndYs">
+  <component name="RunManager" selected="Application.NoticingEvenNumbers">
     <configuration name="CountingByHalves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountingByHalves" />
       <module name="ProgrammingByDoing" />
@@ -209,8 +191,8 @@
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="TenTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TenTimes" />
+    <configuration name="NoticingEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NoticingEvenNumbers" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -261,19 +243,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.TenTimes" />
       <item itemvalue="Application.CountingMachine" />
       <item itemvalue="Application.CountingMachine2" />
       <item itemvalue="Application.CountingByHalves" />
       <item itemvalue="Application.XsAndYs" />
+      <item itemvalue="Application.NoticingEvenNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NoticingEvenNumbers" />
         <item itemvalue="Application.XsAndYs" />
         <item itemvalue="Application.CountingByHalves" />
         <item itemvalue="Application.CountingMachine2" />
         <item itemvalue="Application.CountingMachine" />
-        <item itemvalue="Application.TenTimes" />
       </list>
     </recent_temporary>
   </component>
@@ -384,13 +366,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/UsingVariables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/YourSchedule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -753,6 +728,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoticingEvenNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
