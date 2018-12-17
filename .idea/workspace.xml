@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DistanceFormula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MonthName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DistanceFormula.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DistanceFormula.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DistanceFormula.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonthName.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MonthName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -47,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HowOldAreYouSpecifically.java" />
         <option value="$PROJECT_DIR$/src/SpaceBoxing.java" />
         <option value="$PROJECT_DIR$/src/ALittleQuiz.java" />
         <option value="$PROJECT_DIR$/src/ModulusAnimationWorm.java" />
@@ -98,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/HeronsFormula.java" />
         <option value="$PROJECT_DIR$/src/HeronsFormulaNoFunction.java" />
         <option value="$PROJECT_DIR$/src/DistanceFormula.java" />
+        <option value="$PROJECT_DIR$/src/MonthName.java" />
       </list>
     </option>
   </component>
@@ -156,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DistanceFormula">
+  <component name="RunManager" selected="Application.MonthName">
     <configuration name="DistanceFormula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DistanceFormula" />
       <module name="ProgrammingByDoing" />
@@ -177,8 +187,8 @@
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="PictureMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PictureMenu" />
+    <configuration name="MonthName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MonthName" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -224,19 +234,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.PictureMenu" />
       <item itemvalue="Application.FlickerPhrase" />
       <item itemvalue="Application.HeronsFormula" />
       <item itemvalue="Application.HeronsFormulaNoFunction" />
       <item itemvalue="Application.DistanceFormula" />
+      <item itemvalue="Application.MonthName" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MonthName" />
         <item itemvalue="Application.DistanceFormula" />
         <item itemvalue="Application.HeronsFormulaNoFunction" />
         <item itemvalue="Application.HeronsFormula" />
         <item itemvalue="Application.FlickerPhrase" />
-        <item itemvalue="Application.PictureMenu" />
       </list>
     </recent_temporary>
   </component>
@@ -274,11 +284,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32786885" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32786885" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23162004" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23162004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -347,13 +357,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/HowOldAreYou.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SpaceBoxing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -710,6 +713,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MonthName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
         </state>
       </provider>
     </entry>
