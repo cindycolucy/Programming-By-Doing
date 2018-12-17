@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PictureMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlickerPhrase.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +14,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PictureMenu.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PictureMenu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PictureMenu.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlickerPhrase.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FlickerPhrase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+              <folding>
+                <element signature="e#697#698#0" expanded="true" />
+                <element signature="e#767#768#0" expanded="true" />
+                <element signature="e#806#807#0" expanded="true" />
+                <element signature="e#876#877#0" expanded="true" />
+                <element signature="e#914#915#0" expanded="true" />
+                <element signature="e#984#985#0" expanded="true" />
+                <element signature="e#1023#1024#0" expanded="true" />
+                <element signature="e#1093#1094#0" expanded="true" />
+                <element signature="e#1131#1132#0" expanded="true" />
+                <element signature="e#1201#1202#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/WhatIf.java" />
         <option value="$PROJECT_DIR$/src/HowOldAreYou.java" />
         <option value="$PROJECT_DIR$/src/ElseAndIf.java" />
         <option value="$PROJECT_DIR$/src/WeekdayName.java" />
@@ -90,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/BabyBlackjack.java" />
         <option value="$PROJECT_DIR$/src/ProjectBlackjack.java" />
         <option value="$PROJECT_DIR$/src/PictureMenu.java" />
+        <option value="$PROJECT_DIR$/src/FlickerPhrase.java" />
       </list>
     </option>
   </component>
@@ -148,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PictureMenu">
+  <component name="RunManager" selected="Application.FlickerPhrase">
     <configuration name="AddingValuesWithAForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddingValuesWithAForLoop" />
       <module name="ProgrammingByDoing" />
@@ -159,8 +179,8 @@
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="ForLoopChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoopChallenge" />
+    <configuration name="FlickerPhrase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlickerPhrase" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -216,19 +236,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ForLoopChallenge" />
       <item itemvalue="Application.AddingValuesWithAForLoop" />
       <item itemvalue="Application.BabyBlackjack" />
       <item itemvalue="Application.ProjectBlackjack" />
       <item itemvalue="Application.PictureMenu" />
+      <item itemvalue="Application.FlickerPhrase" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlickerPhrase" />
         <item itemvalue="Application.PictureMenu" />
         <item itemvalue="Application.ProjectBlackjack" />
         <item itemvalue="Application.BabyBlackjack" />
         <item itemvalue="Application.AddingValuesWithAForLoop" />
-        <item itemvalue="Application.ForLoopChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -339,13 +359,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MoreUserInputOfData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ElseAndIf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -546,6 +559,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -699,6 +715,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlickerPhrase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
