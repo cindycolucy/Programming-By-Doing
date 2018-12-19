@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FunctionCallAlphabet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FillInFunctions.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FunctionCallAlphabet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FunctionCallAlphabet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FunctionCallAlphabet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+            <state relative-caret-position="-255">
+              <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
               <folding>
                 <element signature="e#2784#2785#0" expanded="true" />
                 <element signature="e#2832#2833#0" expanded="true" />
@@ -60,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WeeklyCalculator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WeeklyCalculator.java">
+      <file leaf-file-name="FillInFunctions.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FillInFunctions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-765">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="339">
+              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -84,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MyModulusAnimation.java" />
         <option value="$PROJECT_DIR$/src/TwoQuestions.java" />
         <option value="$PROJECT_DIR$/src/Adventure.java" />
         <option value="$PROJECT_DIR$/src/TwoMoreQuestions.java" />
@@ -135,6 +133,7 @@
         <option value="$PROJECT_DIR$/src/WeeklyCalculator.java" />
         <option value="$PROJECT_DIR$/src/AreaCalculator.java" />
         <option value="$PROJECT_DIR$/src/FunctionCallAlphabet.java" />
+        <option value="$PROJECT_DIR$/src/FillInFunctions.java" />
       </list>
     </option>
   </component>
@@ -193,19 +192,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FunctionCallAlphabet">
+  <component name="RunManager" selected="Application.FillInFunctions">
     <configuration name="AreaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaCalculator" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="FunctionCallAlphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionCallAlphabet" />
+    <configuration name="FillInFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FillInFunctions" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="MonthOffset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MonthOffset" />
+    <configuration name="FunctionCallAlphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionCallAlphabet" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -261,19 +260,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MonthOffset" />
       <item itemvalue="Application.WeeklyCalculator" />
       <item itemvalue="Application.WeekdayName" />
       <item itemvalue="Application.AreaCalculator" />
       <item itemvalue="Application.FunctionCallAlphabet" />
+      <item itemvalue="Application.FillInFunctions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FillInFunctions" />
         <item itemvalue="Application.FunctionCallAlphabet" />
         <item itemvalue="Application.AreaCalculator" />
         <item itemvalue="Application.WeeklyCalculator" />
         <item itemvalue="Application.WeekdayName" />
-        <item itemvalue="Application.MonthOffset" />
       </list>
     </recent_temporary>
   </component>
@@ -384,13 +383,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TwoQuestions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BMICalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -748,8 +740,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FunctionCallAlphabet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+        <state relative-caret-position="-255">
+          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
           <folding>
             <element signature="e#2784#2785#0" expanded="true" />
             <element signature="e#2832#2833#0" expanded="true" />
@@ -774,6 +766,13 @@
             <element signature="e#6638#6639#0" expanded="true" />
             <element signature="e#6687#6688#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FillInFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
         </state>
       </provider>
     </entry>
