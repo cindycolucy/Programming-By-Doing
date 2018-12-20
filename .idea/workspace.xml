@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/KeychainsForSale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KeychainsForSale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KeychainsForSale.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,18 +71,8 @@
       <file leaf-file-name="KeychainsForSale.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/KeychainsForSale.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
-              <folding>
-                <element signature="e#881#882#0" expanded="true" />
-                <element signature="e#917#918#0" expanded="true" />
-                <element signature="e#981#982#0" expanded="true" />
-                <element signature="e#1017#1018#0" expanded="true" />
-                <element signature="e#1077#1078#0" expanded="true" />
-                <element signature="e#1131#1132#0" expanded="true" />
-                <element signature="e#1166#1167#0" expanded="true" />
-                <element signature="e#1202#1203#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="730">
+              <caret line="70" column="72" selection-start-line="70" selection-start-column="72" selection-end-line="70" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -801,18 +790,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/KeychainsForSale.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
-          <folding>
-            <element signature="e#881#882#0" expanded="true" />
-            <element signature="e#917#918#0" expanded="true" />
-            <element signature="e#981#982#0" expanded="true" />
-            <element signature="e#1017#1018#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-            <element signature="e#1131#1132#0" expanded="true" />
-            <element signature="e#1166#1167#0" expanded="true" />
-            <element signature="e#1202#1203#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="730">
+          <caret line="70" column="72" selection-start-line="70" selection-start-column="72" selection-end-line="70" selection-end-column="72" />
         </state>
       </provider>
     </entry>
