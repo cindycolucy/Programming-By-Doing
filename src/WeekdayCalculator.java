@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class WeeklyCalculator {
+public class WeekdayCalculator {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -102,25 +102,25 @@ public class WeeklyCalculator {
 
         String result = "";
 
-        if (weekday == 0) {
+        if (weekday == 1) {
             result = "Sunday";
         }
-        else if (weekday == 1) {
+        else if (weekday == 2) {
             result = "Monday";
         }
-        else if (weekday == 2) {
+        else if (weekday == 3) {
             result = "Tuesday";
         }
-        else if (weekday == 3) {
+        else if (weekday == 4) {
             result = "Wednesday";
         }
-        else if (weekday == 4) {
+        else if (weekday == 5) {
             result = "Thursday";
         }
-        else if (weekday == 5) {
+        else if (weekday == 6) {
             result = "Friday";
         }
-        else if (weekday == 6) {
+        else if (weekday == 7) {
             result = "Saturday";
         } else result = "Error";
 
