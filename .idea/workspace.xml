@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPuzzlesI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,24 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NestingLoops.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NestingLoops.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="28" column="32" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OdometerLoops.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OdometerLoops.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BasicNestedLoops.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BasicNestedLoops.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MultiplicationTable.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MultiplicationTable.java">
+      <file leaf-file-name="NumberPuzzlesI.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NumberPuzzlesI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -66,7 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ThreeCardMonte.java" />
         <option value="$PROJECT_DIR$/src/EnterYourPIN.java" />
         <option value="$PROJECT_DIR$/src/CountingWithAWhileLoop.java" />
         <option value="$PROJECT_DIR$/src/PINLockout.java" />
@@ -117,6 +98,7 @@
         <option value="$PROJECT_DIR$/src/OdometerLoops.java" />
         <option value="$PROJECT_DIR$/src/BasicNestedLoops.java" />
         <option value="$PROJECT_DIR$/src/MultiplicationTable.java" />
+        <option value="$PROJECT_DIR$/src/NumberPuzzlesI.java" />
       </list>
     </option>
   </component>
@@ -176,14 +158,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultiplicationTable">
+  <component name="RunManager" selected="Application.NumberPuzzlesI">
     <configuration name="BasicNestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicNestedLoops" />
-      <module name="ProgrammingByDoing" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="DisplayingSomeMultiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DisplayingSomeMultiples" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -194,6 +171,11 @@
     </configuration>
     <configuration name="NestingLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NestingLoops" />
+      <module name="ProgrammingByDoing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="NumberPuzzlesI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberPuzzlesI" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -244,19 +226,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.DisplayingSomeMultiples" />
       <item itemvalue="Application.NestingLoops" />
       <item itemvalue="Application.OdometerLoops" />
       <item itemvalue="Application.BasicNestedLoops" />
       <item itemvalue="Application.MultiplicationTable" />
+      <item itemvalue="Application.NumberPuzzlesI" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberPuzzlesI" />
         <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.BasicNestedLoops" />
         <item itemvalue="Application.OdometerLoops" />
         <item itemvalue="Application.NestingLoops" />
-        <item itemvalue="Application.DisplayingSomeMultiples" />
       </list>
     </recent_temporary>
   </component>
@@ -387,13 +369,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DoWhileSwimming.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-290">
-          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NumberGuessingAgain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -718,6 +693,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiplicationTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BasicNestedLoops.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -725,10 +707,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MultiplicationTable.java">
+    <entry file="file://$PROJECT_DIR$/src/NumberPuzzlesI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
