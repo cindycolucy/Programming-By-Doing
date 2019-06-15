@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OdometerLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicNestedLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,13 +18,13 @@
       <file leaf-file-name="NestingLoops.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NestingLoops.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            <state relative-caret-position="374">
+              <caret line="28" column="32" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OdometerLoops.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OdometerLoops.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OdometerLoops.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -32,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MoreUserInputOfData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MoreUserInputOfData.java">
+      <file leaf-file-name="BasicNestedLoops.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BasicNestedLoops.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="45" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="49" />
+            <state relative-caret-position="170">
+              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -56,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FortuneCookie.java" />
         <option value="$PROJECT_DIR$/src/OneShotHiLo.java" />
         <option value="$PROJECT_DIR$/src/ThreeCardMonte.java" />
         <option value="$PROJECT_DIR$/src/EnterYourPIN.java" />
@@ -107,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/DisplayingSomeMultiples.java" />
         <option value="$PROJECT_DIR$/src/NestingLoops.java" />
         <option value="$PROJECT_DIR$/src/OdometerLoops.java" />
+        <option value="$PROJECT_DIR$/src/BasicNestedLoops.java" />
       </list>
     </option>
   </component>
@@ -166,19 +167,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OdometerLoops">
+  <component name="RunManager" selected="Application.BasicNestedLoops">
     <configuration name="BabyCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BabyCalculator" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="DisplayingSomeMultiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DisplayingSomeMultiples" />
+    <configuration name="BasicNestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicNestedLoops" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="FindingPrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindingPrimeNumbers" />
+    <configuration name="DisplayingSomeMultiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DisplayingSomeMultiples" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -234,19 +235,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.FindingPrimeNumbers" />
       <item itemvalue="Application.BabyCalculator" />
       <item itemvalue="Application.DisplayingSomeMultiples" />
       <item itemvalue="Application.NestingLoops" />
       <item itemvalue="Application.OdometerLoops" />
+      <item itemvalue="Application.BasicNestedLoops" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicNestedLoops" />
         <item itemvalue="Application.OdometerLoops" />
         <item itemvalue="Application.NestingLoops" />
         <item itemvalue="Application.DisplayingSomeMultiples" />
         <item itemvalue="Application.BabyCalculator" />
-        <item itemvalue="Application.FindingPrimeNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -273,6 +274,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -376,13 +378,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/NumberGuessing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/EnterYourPIN.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -700,13 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NestingLoops.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MoreUserInputOfData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -718,6 +706,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NestingLoops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicNestedLoops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
         </state>
       </provider>
     </entry>
