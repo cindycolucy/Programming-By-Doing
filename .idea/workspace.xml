@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DisplayingSomeMultiples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestingLoops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,29 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ARefresher2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ARefresher2.java">
+      <file leaf-file-name="NestingLoops.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NestingLoops.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DisplayingSomeMultiples.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DisplayingSomeMultiples.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BMICalculator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BMICalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="42" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="49" />
+            <state relative-caret-position="340">
+              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -57,7 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Randomness.java" />
         <option value="$PROJECT_DIR$/src/Magic8Ball.java" />
         <option value="$PROJECT_DIR$/src/FortuneCookie.java" />
         <option value="$PROJECT_DIR$/src/OneShotHiLo.java" />
@@ -108,10 +89,11 @@
         <option value="$PROJECT_DIR$/src/FindingPrimeNumbers.java" />
         <option value="$PROJECT_DIR$/src/BabyCalculator.java" />
         <option value="$PROJECT_DIR$/src/DisplayingSomeMultiples.java" />
+        <option value="$PROJECT_DIR$/src/NestingLoops.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="170" />
     <option name="y" value="50" />
     <option name="width" value="3500" />
@@ -167,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DisplayingSomeMultiples">
+  <component name="RunManager" selected="Application.NestingLoops">
     <configuration name="BabyCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BabyCalculator" />
       <module name="ProgrammingByDoing" />
@@ -188,8 +170,8 @@
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="KeychainsForSale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KeychainsForSale" />
+    <configuration name="NestingLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NestingLoops" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -235,19 +217,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.KeychainsForSale" />
       <item itemvalue="Application.EvennessFunction" />
       <item itemvalue="Application.FindingPrimeNumbers" />
       <item itemvalue="Application.BabyCalculator" />
       <item itemvalue="Application.DisplayingSomeMultiples" />
+      <item itemvalue="Application.NestingLoops" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NestingLoops" />
         <item itemvalue="Application.DisplayingSomeMultiples" />
         <item itemvalue="Application.BabyCalculator" />
         <item itemvalue="Application.FindingPrimeNumbers" />
         <item itemvalue="Application.EvennessFunction" />
-        <item itemvalue="Application.KeychainsForSale" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +276,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989071" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Designer" order="2" />
@@ -378,13 +360,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PINLockout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AddingValuesInALoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -718,8 +693,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DisplayingSomeMultiples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="204">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NestingLoops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
         </state>
       </provider>
     </entry>
