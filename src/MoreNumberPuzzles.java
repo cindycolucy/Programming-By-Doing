@@ -33,7 +33,7 @@ public class MoreNumberPuzzles {
         for (int a = 10; a <= 56; a++) {
 
             int b = a % 10;
-            int c = a / 10;
+            int c = a % 100 / 10;
             sum = b + c;
             if (sum > 10) {
                 System.out.println(a);
