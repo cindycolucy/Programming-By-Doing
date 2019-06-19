@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/MoreNumberPuzzles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MoreNumberPuzzles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArmstrongNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,28 +37,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KeychainsForSale.java">
+        <entry file="file://$PROJECT_DIR$/src/MoreNumberPuzzles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DoWhileSwimming.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="55" column="1" lean-forward="true" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+            <state relative-caret-position="85">
+              <caret line="12" column="105" selection-start-line="12" selection-start-column="105" selection-end-line="12" selection-end-column="105" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MoreNumberPuzzles.java">
+        <entry file="file://$PROJECT_DIR$/src/ArmstrongNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="12" column="105" selection-start-line="12" selection-start-column="105" selection-end-line="12" selection-end-column="105" />
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -77,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/PINLockout.java" />
         <option value="$PROJECT_DIR$/src/NumberGuessing.java" />
         <option value="$PROJECT_DIR$/src/HiLoWithLimitedTries.java" />
         <option value="$PROJECT_DIR$/src/AddingValuesInALoop.java" />
@@ -128,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/NumberPuzzlesI.java" />
         <option value="$PROJECT_DIR$/src/GettingIndividualDigits.java" />
         <option value="$PROJECT_DIR$/src/MoreNumberPuzzles.java" />
+        <option value="$PROJECT_DIR$/src/ArmstrongNumbers.java" />
       </list>
     </option>
   </component>
@@ -188,9 +180,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MoreNumberPuzzles">
-    <configuration name="BasicNestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicNestedLoops" />
+  <component name="RunManager" selected="Application.ArmstrongNumbers">
+    <configuration name="ArmstrongNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArmstrongNumbers" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -254,19 +246,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BasicNestedLoops" />
       <item itemvalue="Application.GettingIndividualDigits" />
       <item itemvalue="Application.MultiplicationTable" />
       <item itemvalue="Application.NumberPuzzlesI" />
       <item itemvalue="Application.MoreNumberPuzzles" />
+      <item itemvalue="Application.ArmstrongNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArmstrongNumbers" />
         <item itemvalue="Application.MoreNumberPuzzles" />
         <item itemvalue="Application.NumberPuzzlesI" />
         <item itemvalue="Application.GettingIndividualDigits" />
         <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.BasicNestedLoops" />
       </list>
     </recent_temporary>
   </component>
@@ -291,12 +283,21 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21193829" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.21193829" />
+      <window_info id="Structure" order="1" sideWeight="0.5021008" side_tool="true" weight="0.21193829" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -304,11 +305,11 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32673267" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32673267" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
@@ -373,13 +374,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SafeSquareRoot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RightTriangleChecker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
@@ -690,13 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GettingIndividualDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/KeychainsForSale.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -715,6 +702,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="12" column="105" selection-start-line="12" selection-start-column="105" selection-end-line="12" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GettingIndividualDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArmstrongNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
