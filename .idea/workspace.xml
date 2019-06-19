@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/SimpleFileInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleFileInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicArrays0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,26 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LetterRevisited.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SimpleFileInput.java">
+        <entry file="file://$PROJECT_DIR$/src/BasicArrays0.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -56,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AddingValuesInALoop.java" />
         <option value="$PROJECT_DIR$/src/DoWhileSwimming.java" />
         <option value="$PROJECT_DIR$/src/FlipAgain.java" />
         <option value="$PROJECT_DIR$/src/Dice.java" />
@@ -107,6 +92,7 @@
         <option value="$PROJECT_DIR$/src/ArmstrongNumbers.java" />
         <option value="$PROJECT_DIR$/src/LetterRevisited.java" />
         <option value="$PROJECT_DIR$/src/SimpleFileInput.java" />
+        <option value="$PROJECT_DIR$/src/BasicArrays0.java" />
       </list>
     </option>
   </component>
@@ -167,9 +153,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleFileInput">
+  <component name="RunManager" selected="Application.BasicArrays0">
     <configuration name="ArmstrongNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArmstrongNumbers" />
+      <module name="ProgrammingByDoing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicArrays0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicArrays0" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -186,14 +180,6 @@
     </configuration>
     <configuration name="MoreNumberPuzzles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MoreNumberPuzzles" />
-      <module name="ProgrammingByDoing" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberPuzzlesI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberPuzzlesI" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -233,19 +219,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NumberPuzzlesI" />
       <item itemvalue="Application.MoreNumberPuzzles" />
       <item itemvalue="Application.ArmstrongNumbers" />
       <item itemvalue="Application.LetterRevisited" />
       <item itemvalue="Application.SimpleFileInput" />
+      <item itemvalue="Application.BasicArrays0" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicArrays0" />
         <item itemvalue="Application.SimpleFileInput" />
         <item itemvalue="Application.LetterRevisited" />
         <item itemvalue="Application.ArmstrongNumbers" />
         <item itemvalue="Application.MoreNumberPuzzles" />
-        <item itemvalue="Application.NumberPuzzlesI" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +269,7 @@
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.21193829" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.21193829" />
       <window_info id="Structure" order="1" sideWeight="0.5021008" side_tool="true" weight="0.21193829" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -293,7 +279,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32673267" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32673267" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -361,13 +347,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Nim.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="46" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BabyNim.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
@@ -692,6 +671,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleFileInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LetterRevisited.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -702,13 +691,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SimpleFileInput.java">
+    <entry file="file://$PROJECT_DIR$/src/BasicArrays0.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
