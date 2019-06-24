@@ -16,6 +16,7 @@ public class CopyingArrays {
 
             System.out.print(a[i] + "  ");
         }
+
         b = a;
         a[a.length - 1] = -7;
         System.out.println();
