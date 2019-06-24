@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/BasicArrays1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicArrays1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicArrays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicArrays2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,23 +25,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BasicArrays1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="119">
+              <caret line="7" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BasicArrays2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="272">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#226#235#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,8 +110,8 @@
         <option value="$PROJECT_DIR$/src/LetterRevisited.java" />
         <option value="$PROJECT_DIR$/src/SimpleFileInput.java" />
         <option value="$PROJECT_DIR$/src/BasicArrays0.java" />
-        <option value="$PROJECT_DIR$/src/BasicArrays2.java" />
         <option value="$PROJECT_DIR$/src/BasicArrays1.java" />
+        <option value="$PROJECT_DIR$/src/BasicArrays2.java" />
       </list>
     </option>
   </component>
@@ -172,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BasicArrays1">
+  <component name="RunManager" selected="Application.BasicArrays2">
     <configuration name="BasicArrays0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicArrays0" />
       <module name="ProgrammingByDoing" />
@@ -246,8 +245,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BasicArrays1" />
         <item itemvalue="Application.BasicArrays2" />
+        <item itemvalue="Application.BasicArrays1" />
         <item itemvalue="Application.BasicArrays0" />
         <item itemvalue="Application.SimpleFileInput" />
         <item itemvalue="Application.LetterRevisited" />
@@ -286,9 +285,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.21462107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.21462107" />
       <window_info id="Structure" order="1" sideWeight="0.5021008" side_tool="true" weight="0.21193829" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -298,7 +296,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32673267" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32673267" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -697,17 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicArrays2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#226#235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BasicArrays0.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -717,8 +704,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BasicArrays1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicArrays2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

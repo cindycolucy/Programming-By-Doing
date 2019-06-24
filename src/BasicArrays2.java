@@ -3,16 +3,15 @@ import java.util.Random;
 
 public class BasicArrays2 {
 
-        public static void main(String[] args){
-            ArrayList<Integer> al = new ArrayList<Integer>();
-            for(int i = 1; i <= 10; i++){
-                al.add(getNumbers());
+    public static void main(String[] args){
+        Random r = new Random();
 
-            }System.out.println("ArrayList: " + al);
+        //Declare an array of 10 integers
+        int a[] = new int[10];
+
+        for(int i = 0; i < a.length; i++){
+            a[i] = 1 + r.nextInt(100);
+            System.out.println("Slot " + i + " contains a " + a[i]);
         }
-        public static int getNumbers(){
-            Random r = new Random();
-            int x = 1+r.nextInt(100);
-            return x;
-        }
+    }
 }
