@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HowManyTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsItThereOrNot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,11 +50,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HowManyTimes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="29" column="76" selection-start-line="29" selection-start-column="76" selection-end-line="29" selection-end-column="76" />
+            <state relative-caret-position="272">
+              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/IsItThereOrNot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -74,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BabyNim.java" />
         <option value="$PROJECT_DIR$/src/Nim.java" />
         <option value="$PROJECT_DIR$/src/CountingFor.java" />
         <option value="$PROJECT_DIR$/src/TenTimes.java" />
@@ -125,6 +133,7 @@
         <option value="$PROJECT_DIR$/src/GradesInAnArrayAndFile.java" />
         <option value="$PROJECT_DIR$/src/FindingAValueInAnArray.java" />
         <option value="$PROJECT_DIR$/src/HowManyTimes.java" />
+        <option value="$PROJECT_DIR$/src/IsItThereOrNot.java" />
       </list>
     </option>
   </component>
@@ -184,15 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HowManyTimes">
-    <configuration name="BasicArrays3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicArrays3" />
-      <module name="ProgrammingByDoing" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IsItThereOrNot">
     <configuration name="CopyingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CopyingArrays" />
       <module name="ProgrammingByDoing" />
@@ -225,6 +226,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IsItThereOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsItThereOrNot" />
+      <module name="ProgrammingByDoing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -250,19 +259,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BasicArrays3" />
       <item itemvalue="Application.CopyingArrays" />
       <item itemvalue="Application.GradesInAnArrayAndFile" />
       <item itemvalue="Application.FindingAValueInAnArray" />
       <item itemvalue="Application.HowManyTimes" />
+      <item itemvalue="Application.IsItThereOrNot" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsItThereOrNot" />
         <item itemvalue="Application.HowManyTimes" />
         <item itemvalue="Application.FindingAValueInAnArray" />
         <item itemvalue="Application.GradesInAnArrayAndFile" />
         <item itemvalue="Application.CopyingArrays" />
-        <item itemvalue="Application.BasicArrays3" />
       </list>
     </recent_temporary>
   </component>
@@ -379,13 +388,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ForLoopChallenge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LetterAtATime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -734,8 +736,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HowManyTimes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="29" column="76" selection-start-line="29" selection-start-column="76" selection-end-line="29" selection-end-column="76" />
+        <state relative-caret-position="272">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IsItThereOrNot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
