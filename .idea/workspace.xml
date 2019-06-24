@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BasicArrays3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CopyingArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,11 +47,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BasicArrays3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state relative-caret-position="153">
+              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CopyingArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -71,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/NumberGuessingAgain.java" />
         <option value="$PROJECT_DIR$/src/SafeSquareRoot.java" />
         <option value="$PROJECT_DIR$/src/RightTriangleChecker.java" />
         <option value="$PROJECT_DIR$/src/CollatzSequence.java" />
@@ -122,6 +130,7 @@
         <option value="$PROJECT_DIR$/src/BasicArrays1.java" />
         <option value="$PROJECT_DIR$/src/BasicArrays2.java" />
         <option value="$PROJECT_DIR$/src/BasicArrays3.java" />
+        <option value="$PROJECT_DIR$/src/CopyingArrays.java" />
       </list>
     </option>
   </component>
@@ -181,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BasicArrays3">
+  <component name="RunManager" selected="Application.CopyingArrays">
     <configuration name="BasicArrays0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicArrays0" />
       <module name="ProgrammingByDoing" />
@@ -214,8 +223,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFileInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleFileInput" />
+    <configuration name="CopyingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CopyingArrays" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -247,19 +256,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SimpleFileInput" />
       <item itemvalue="Application.BasicArrays0" />
       <item itemvalue="Application.BasicArrays1" />
       <item itemvalue="Application.BasicArrays2" />
       <item itemvalue="Application.BasicArrays3" />
+      <item itemvalue="Application.CopyingArrays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CopyingArrays" />
         <item itemvalue="Application.BasicArrays3" />
         <item itemvalue="Application.BasicArrays2" />
         <item itemvalue="Application.BasicArrays1" />
         <item itemvalue="Application.BasicArrays0" />
-        <item itemvalue="Application.SimpleFileInput" />
       </list>
     </recent_temporary>
   </component>
@@ -376,13 +385,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CountingMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CountingMachine2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -725,8 +727,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BasicArrays3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="153">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CopyingArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
         </state>
       </provider>
     </entry>
