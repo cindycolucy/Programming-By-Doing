@@ -11,6 +11,7 @@ public class FindingTheLargestNumberInAnArray {
 
         int a[] = new int[10];
         int largest = 0;
+        int slot = 0;
         for (int i = 0; i < a.length; i++) {
             a[i] = 1 + r.nextInt(100);
             System.out.print(a[i] + "  ");
@@ -19,11 +20,13 @@ public class FindingTheLargestNumberInAnArray {
             for (int i = 0; i < a.length; i++) {
                 if (largest < a[i]) {
                     largest = a[i];
+                    slot = i;
 
                 }
             }
         System.out.println();
         System.out.println(largest + " is the largest number in the array.");
+        System.out.println("It is found in slot " + slot + ".");
         }
 
 
