@@ -38,7 +38,9 @@ public class PokeSwap {
         {
             System.out.println( "\n" + pokeParty[0] + " swaps out with " + pokeParty[3] + "!\n" );
 
+            String temp = pokeParty[0];
             pokeParty[0] = pokeParty[3];
+            pokeParty[3] = temp;
 
             System.out.println( pokeParty[0] + " used BITE!  It's super effective." );
 
