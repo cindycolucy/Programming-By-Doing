@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SortingValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExchangeSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SortingValues.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="5" column="49" lean-forward="true" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+            <state relative-caret-position="384">
+              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ExchangeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -41,7 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AddingValuesWithAForLoop.java" />
         <option value="$PROJECT_DIR$/src/BabyBlackjack.java" />
         <option value="$PROJECT_DIR$/src/ProjectBlackjack.java" />
         <option value="$PROJECT_DIR$/src/PictureMenu.java" />
@@ -92,6 +99,7 @@
         <option value="$PROJECT_DIR$/src/PokeTrader2.java" />
         <option value="$PROJECT_DIR$/src/PokeSwap.java" />
         <option value="$PROJECT_DIR$/src/SortingValues.java" />
+        <option value="$PROJECT_DIR$/src/ExchangeSort.java" />
       </list>
     </option>
   </component>
@@ -151,9 +159,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortingValues">
-    <configuration name="MovieTitleGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MovieTitleGen" />
+  <component name="RunManager" selected="Application.ExchangeSort">
+    <configuration name="ExchangeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExchangeSort" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -217,19 +225,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MovieTitleGen" />
       <item itemvalue="Application.PokeSwap" />
       <item itemvalue="Application.PokeTrader" />
       <item itemvalue="Application.PokeTrader2" />
       <item itemvalue="Application.SortingValues" />
+      <item itemvalue="Application.ExchangeSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExchangeSort" />
         <item itemvalue="Application.SortingValues" />
         <item itemvalue="Application.PokeTrader2" />
         <item itemvalue="Application.PokeSwap" />
         <item itemvalue="Application.PokeTrader" />
-        <item itemvalue="Application.MovieTitleGen" />
       </list>
     </recent_temporary>
   </component>
@@ -346,13 +354,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AskingQuestions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MoreFillInFunctions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1327">
@@ -704,8 +705,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SortingValues.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="5" column="49" lean-forward="true" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        <state relative-caret-position="384">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExchangeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
         </state>
       </provider>
     </entry>
