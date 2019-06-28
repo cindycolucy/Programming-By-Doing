@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PokeSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PokeTrader.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PokeSwap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-136">
               <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PokeTrader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -61,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/LetterAtATime.java" />
         <option value="$PROJECT_DIR$/src/ForLoopChallenge.java" />
         <option value="$PROJECT_DIR$/src/AddingValuesWithAForLoop.java" />
@@ -112,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/MadLibRandom.java" />
         <option value="$PROJECT_DIR$/src/MovieTitleGen.java" />
         <option value="$PROJECT_DIR$/src/PokeSwap.java" />
+        <option value="$PROJECT_DIR$/src/PokeTrader.java" />
       </list>
     </option>
   </component>
@@ -171,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PokeSwap">
+  <component name="RunManager" selected="Application.PokeTrader">
     <configuration name="MadLibRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MadLibRandom" />
       <module name="ProgrammingByDoing" />
@@ -188,16 +197,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParallelArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ParallelArrays" />
+    <configuration name="PokeSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PokeSwap" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PokeSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PokeSwap" />
+    <configuration name="PokeTrader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PokeTrader" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -237,19 +246,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ParallelArrays" />
       <item itemvalue="Application.TicTacToe" />
       <item itemvalue="Application.MadLibRandom" />
       <item itemvalue="Application.MovieTitleGen" />
       <item itemvalue="Application.PokeSwap" />
+      <item itemvalue="Application.PokeTrader" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PokeTrader" />
         <item itemvalue="Application.PokeSwap" />
         <item itemvalue="Application.MovieTitleGen" />
         <item itemvalue="Application.MadLibRandom" />
         <item itemvalue="Application.TicTacToe" />
-        <item itemvalue="Application.ParallelArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -365,13 +374,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DistanceFormula.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
@@ -725,6 +727,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-136">
           <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PokeTrader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
         </state>
       </provider>
     </entry>
