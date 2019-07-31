@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6747a0-c1c4-4e84-81b7-568abff6fedc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FindingAValueInAnArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayListThereOrNot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,11 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FindingAValueInAnArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="85">
+              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ArrayListThereOrNot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -53,7 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AreaCalculator.java" />
         <option value="$PROJECT_DIR$/src/FunctionCallAlphabet.java" />
         <option value="$PROJECT_DIR$/src/FillInFunctions.java" />
         <option value="$PROJECT_DIR$/src/MoreFillInFunctions.java" />
@@ -104,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/BasicArrayLists3.java" />
         <option value="$PROJECT_DIR$/src/CopyingArrayLists.java" />
         <option value="$PROJECT_DIR$/src/FindingAValueInAnArrayList.java" />
+        <option value="$PROJECT_DIR$/src/ArrayListThereOrNot.java" />
       </list>
     </option>
   </component>
@@ -113,6 +122,7 @@
     <option name="width" value="3500" />
     <option name="height" value="1810" />
   </component>
+  <component name="ProjectId" id="1OnAJdEbcxxE6D35tGZSddtdeBL" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -163,9 +173,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindingAValueInAnArrayList">
-    <configuration name="BasicArrayLists1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicArrayLists1" />
+  <component name="RunManager" selected="Application.ArrayListThereOrNot">
+    <configuration name="ArrayListThereOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListThereOrNot" />
       <module name="ProgrammingByDoing" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -229,19 +239,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BasicArrayLists1" />
       <item itemvalue="Application.BasicArrayLists2" />
       <item itemvalue="Application.BasicArrayLists3" />
       <item itemvalue="Application.CopyingArrayLists" />
       <item itemvalue="Application.FindingAValueInAnArrayList" />
+      <item itemvalue="Application.ArrayListThereOrNot" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListThereOrNot" />
         <item itemvalue="Application.FindingAValueInAnArrayList" />
         <item itemvalue="Application.CopyingArrayLists" />
         <item itemvalue="Application.BasicArrayLists3" />
         <item itemvalue="Application.BasicArrayLists2" />
-        <item itemvalue="Application.BasicArrayLists1" />
       </list>
     </recent_temporary>
   </component>
@@ -359,13 +369,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BMICalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DisplayingSomeMultiples.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -748,8 +751,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FindingAValueInAnArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="85">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayListThereOrNot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
         </state>
       </provider>
     </entry>
